@@ -9,5 +9,5 @@ spring:
       hibernate:
         format_sql: true
     hibernate:
-      ddl-auto: true
-    
+      ddl-auto: update
+    show-sql: true
